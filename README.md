@@ -22,8 +22,6 @@ Ekstrak zip, buka `Anotowates.exe`. Tidak perlu memasang Python atau apa pun.
 
 Nama berasal dari bahasa Jawa: *anoto* (menandai) dan *wates* (batas).
 
-<p align="center"><img src="media/tour.gif" alt="Tur Anotowates: layar awal, membuka proyek, editor, menu, Review dan validasi, tema terang" width="100%"></p>
-
 ## Yang bisa dilakukan
 
 | | |
